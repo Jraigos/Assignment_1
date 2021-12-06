@@ -12,7 +12,7 @@ Cryptocurrency Market Data
 Coinmarketcap OpCo, LLC
 (CMC)
 
-![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Logo.png)
+![Coinmarketcap Logo](Logo.png)
 
 Coinmarketcap (CMC), was founded in May 2013 by Brandon Chez in his apartment located in Queens, Long Island City, NY.
 
