@@ -12,7 +12,7 @@ Cryptocurrency Market Data
 Coinmarketcap OpCo, LLC
 (CMC)
 
-
+![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Logo.png)
 
 Coinmarketcap (CMC), was founded in May 2013 by Brandon Chez in his apartment located in Queens, Long Island City, NY.
 
@@ -49,7 +49,7 @@ The CoinMarketCap API is a suite of high-performance RESTful JSON endpoints that
 
 This is an example of how to make a test call of the API using Python.
 
-
+![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Python.png)
 
 
 
@@ -75,6 +75,7 @@ Coinmarketcap is in the Blockchain and Cryptocurrencies domain of the financial 
 
 Since the beginning of Coinmarketcap, these have been ones of the mayor trends and innovations: Ref.1
 
+![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Table.png)
 
 
 There are several other major companies in the financial industry of blockchain and cryptocurrency domain: 4
