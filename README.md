@@ -2,12 +2,12 @@
 
 # Title
 
-Cryptocurrency Market Data 
+**Cryptocurrency Market Data 
 
 
 ## Overview and Origin
 
-* Name of the company
+Name of the company
 
 Coinmarketcap OpCo, LLC
 (CMC)
@@ -80,21 +80,21 @@ Since the beginning of Coinmarketcap, these have been ones of the mayor trends a
 
 There are several other major companies in the financial industry of blockchain and cryptocurrency domain: 4
 
-Coingecko
-Coindesk
-Live Coin Watch
-CoinCodex
-OnChainFX
-CoinCheckup
-Coinlib
-Bitinfocharts
-CoinrateCap
-CoinCap
-CryptoCompare
-Figment Networks
-Future FinTech Group
-Luno
-VeChain
+- Coingecko
+- Coindesk
+- Live Coin Watch
+- CoinCodex
+- OnChainFX
+- CoinCheckup
+- Coinlib
+- Bitinfocharts
+- CoinrateCap
+- CoinCap
+- CryptoCompare
+- Figment Networks
+- Future FinTech Group
+- Luno
+- VeChain
 
 
 ## Results
@@ -125,10 +125,10 @@ CMC might create this channel using its own platform and the social media platfo
 ## References
 
 1  Coinmarketcap OpCo, LLC website https://coinmarketcap.com/
-
 2  Coinmarketcap OpCo, LLC website  https://coinmarketcap.com/api/documentation
 3  The Wall Street Journal website https://www.wsj.com/articles/the-programmer-at-the- center-of-a-100-billion-crypto-storm-1516708800
-4  https://craft.co , https://www.finder.com5  Alexa website ranking
+4  https://craft.co , https://www.finder.com
+5  Alexa website ranking
 
 
  
