@@ -1,8 +1,6 @@
 # Assignment_1
 
-# Title
-
-Cryptocurrency Market Data 
+# Cryptocurrency Market Data 
 
 
 ## Overview and Origin
@@ -12,7 +10,7 @@ Cryptocurrency Market Data
 Coinmarketcap OpCo, LLC
 (CMC)
 
-![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Logo.png)
+![Coinmarketcap Logo](Logo.png)
 
 Coinmarketcap (CMC), was founded in May 2013 by Brandon Chez in his apartment located in Queens, Long Island City, NY.
 
@@ -49,7 +47,7 @@ The CoinMarketCap API is a suite of high-performance RESTful JSON endpoints that
 
 This is an example of how to make a test call of the API using Python.
 
-![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Python.png)
+![Coinmarketcap Logo](Python.png)
 
 
 
@@ -75,26 +73,26 @@ Coinmarketcap is in the Blockchain and Cryptocurrencies domain of the financial 
 
 Since the beginning of Coinmarketcap, these have been ones of the mayor trends and innovations: Ref.1
 
-![Coinmarketcap Logo](/Users/juanraigosa/Desktop/Assignment_1/Table.png)
+![Coinmarketcap Logo](Table.png)
 
 
 There are several other major companies in the financial industry of blockchain and cryptocurrency domain: 4
 
-Coingecko
-Coindesk
-Live Coin Watch
-CoinCodex
-OnChainFX
-CoinCheckup
-Coinlib
-Bitinfocharts
-CoinrateCap
-CoinCap
-CryptoCompare
-Figment Networks
-Future FinTech Group
-Luno
-VeChain
+- Coingecko
+- Coindesk
+- Live Coin Watch
+- CoinCodex
+- OnChainFX
+- CoinCheckup
+- Coinlib
+- Bitinfocharts
+- CoinrateCap
+- CoinCap
+- CryptoCompare
+- Figment Networks
+- Future FinTech Group
+- Luno
+- VeChain
 
 
 ## Results
@@ -125,10 +123,10 @@ CMC might create this channel using its own platform and the social media platfo
 ## References
 
 1  Coinmarketcap OpCo, LLC website https://coinmarketcap.com/
-
 2  Coinmarketcap OpCo, LLC website  https://coinmarketcap.com/api/documentation
 3  The Wall Street Journal website https://www.wsj.com/articles/the-programmer-at-the- center-of-a-100-billion-crypto-storm-1516708800
-4  https://craft.co , https://www.finder.com5  Alexa website ranking
+4  https://craft.co , https://www.finder.com 
+5  Alexa website ranking
 
 
  
