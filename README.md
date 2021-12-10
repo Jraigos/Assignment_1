@@ -1,18 +1,20 @@
 # Assignment_1
 
-# Cryptocurrency Market Data 
+# Title
+
+**Cryptocurrency Market Data** 
 
 
 ## Overview and Origin
 
-* Name of the company
+Name of the company
 
 Coinmarketcap OpCo, LLC
 (CMC)
 
 ![Coinmarketcap Logo](Logo.png)
 
-Coinmarketcap (CMC), was founded in May 2013 by Brandon Chez in his apartment located in Queens, Long Island City, NY.
+Coinmarketcap (CMC), was founded in May 2013 by Brandon Chez, a 31 years old computer programmer, in his apartment located in Queens, Long Island City, NY.
 
 Originally Mr. Chez was looking to provide users the ability to obtain insight about cryptocurrency markets at a glance and being a neutral and accurate source for the cryptocurrency community.
 
@@ -122,11 +124,11 @@ CMC might create this channel using its own platform and the social media platfo
 
 ## References
 
-1  Coinmarketcap OpCo, LLC website https://coinmarketcap.com/
-2  Coinmarketcap OpCo, LLC website  https://coinmarketcap.com/api/documentation
-3  The Wall Street Journal website https://www.wsj.com/articles/the-programmer-at-the- center-of-a-100-billion-crypto-storm-1516708800
-4  https://craft.co , https://www.finder.com 
-5  Alexa website ranking
+1.  Coinmarketcap OpCo, LLC website https://coinmarketcap.com/
+2.  Coinmarketcap OpCo, LLC website  https://coinmarketcap.com/api/documentation
+3.  The Wall Street Journal website https://www.wsj.com/articles/the-programmer-at-the- center-of-a-100-billion-crypto-storm-1516708800
+4.  https://craft.co , https://www.finder.com
+5.  Alexa website ranking
 
 
  
