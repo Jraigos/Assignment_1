@@ -1,5 +1,3 @@
-# Assignment_1
-
 # Title
 
 **Cryptocurrency Market Data** 
@@ -118,7 +116,7 @@ According to Alexa website ranking. The current position for CMC is 108 in the g
 
 It is recommended that Coinmarketcap creates a live channel to provide all the information related to blockchain and cryptocurrency market:
 Live news, documentaries, series, tutorials, etc.
-Trough this channel CMC could create more audience, a better understanding of the blockchain and the cryptocurrency industry.
+Through this channel CMC could create more audience, a better understanding of the blockchain and the cryptocurrency industry.
 CMC might create this channel using its own platform and the social media platforms to reach the audience.
 
 
